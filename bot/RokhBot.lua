@@ -232,7 +232,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {206637124},--Sudo users
+    sudo_users = {192281402},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[F O C U S v2
 Sudo: @Xxx_sargardan_xxX
