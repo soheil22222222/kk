@@ -227,6 +227,7 @@ function create_config( )
     "get",
     "broadcast",
     "invite",
+    "plugins",
     "all",
     "leave_ban",
 	"supergroup",
